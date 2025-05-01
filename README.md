@@ -73,6 +73,15 @@ The program will:
    
    <img width="650" alt="Image" src="https://github.com/user-attachments/assets/9fba086e-5c0e-4c79-bfd6-f5ba65184d89" />
 
+5. Terminal Output
+   ```
+   [*********************100%***********************]  1 of 1 completed
+   [*********************100%***********************]  1 of 1 completed
+   Beta from formula:  1.2525003127613483
+   Beta from regression:  1.2525003127613485
+   Expected returns:  0.08096586673883803
+   ```
+
 ## How It Works
 
 ### Theory
