@@ -70,8 +70,8 @@ The program will:
 2. Print the beta calculated using regression analysis
 3. Print the expected returns based on CAPM
 4. Display a graph showing the CAPM line and actual data points
-
-<img width="650" alt="Image" src="https://github.com/user-attachments/assets/9fba086e-5c0e-4c79-bfd6-f5ba65184d89" />
+   
+   <img width="650" alt="Image" src="https://github.com/user-attachments/assets/9fba086e-5c0e-4c79-bfd6-f5ba65184d89" />
 
 ## How It Works
 
